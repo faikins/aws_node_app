@@ -1,0 +1,12 @@
+{
+  "name": "aws-secrets-manager-app",
+  "version": "1.0.0",
+  "description": "A Node.js app to retrieve secrets from AWS Secrets Manager",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1040.0"
+  }
+}
